@@ -1,3 +1,2 @@
-print("Hello, World!")
-a = 28
-print(a)
+name = input("Please enter your name: ")
+print(f"Hello, {name}!")
