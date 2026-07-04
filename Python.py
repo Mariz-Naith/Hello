@@ -1,8 +1,6 @@
-n = int(input("Number: "))
+coordinateX = 10.0
+coordinateY = 20.0
 
-if n < 0:
-    print("Number is negative")
-elif n > 0:
-    print("Number is positive")
-else:
-    print("Number is zero")
+coordinate = (10.0, 20.0)
+
+print(coordinate)
